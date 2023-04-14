@@ -6,3 +6,4 @@
 --> 
    1. How to write shell script file.
    2. printing
+   3. variables
